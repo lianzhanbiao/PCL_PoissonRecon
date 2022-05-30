@@ -1,0 +1,2 @@
+# PCL_PoissonRecon
+基于PCL的泊松重建，将泊松重建的官方代码和PCL结合，并不是使用PCL内部的泊松重建包
